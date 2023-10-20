@@ -1,0 +1,12 @@
+fastapi 
+uvicorn[standard]
+pydantic 
+pandas 
+gunicorn 
+openpyxl 
+numpy
+xgboost
+
+
+scikit-learn==1.0.2
+joblib==1.2.0
