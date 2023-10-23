@@ -8,3 +8,5 @@ GetAround est une plateforme similaire à Airbnb, mais pour les voitures, permet
 
 Nom : Sandri Amandine
 Mail : amandine.sandri@gmail.com
+
+Je tiens à créditer DINE Aloïs Jesshuan, car je me suis servie de son dépôt GitHub comme référence
